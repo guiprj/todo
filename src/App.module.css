@@ -1,0 +1,12 @@
+.containerTasks {
+  width: 100%;
+  max-width: 736px;
+  margin: auto;
+  padding: 0 8px;
+  margin-top: 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
